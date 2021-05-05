@@ -3,4 +3,4 @@ This source code was leaked by the exploitation of a [directory traversal vulner
 
 This was developed by Duncan B. Sutherland III in February 2002.
 
-The HTML and JS files are not included because they can just be viewed through "view-source:". These are just the files for the server-sided source code and the files that are generally not visible to the user.
+The HTML and JS files are not included because they can just be viewed through "view-source:". These are just the files for the server-sided code and the files that are generally not visible to the user.
