@@ -1,2 +1,4 @@
 # Cengage-ESL-Timed-Reading
-The source code for Cengage ESL Timed Reading (https://college.cengage.com/cgi-bin/esl_site/timed_reading/timed_reading.cgi).
+This source code was leaked by the exploitation of a directory traversal vulnerability (CWE-23).
+
+This was developed by Duncan B. Sutherland III in February 2002.
